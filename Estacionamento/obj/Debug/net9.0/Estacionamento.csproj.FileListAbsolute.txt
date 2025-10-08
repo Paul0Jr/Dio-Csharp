@@ -1,0 +1,15 @@
+/home/paulo/Documentos/C#/Dio/Estacionamento/bin/Debug/net9.0/Estacionamento
+/home/paulo/Documentos/C#/Dio/Estacionamento/bin/Debug/net9.0/Estacionamento.deps.json
+/home/paulo/Documentos/C#/Dio/Estacionamento/bin/Debug/net9.0/Estacionamento.runtimeconfig.json
+/home/paulo/Documentos/C#/Dio/Estacionamento/bin/Debug/net9.0/Estacionamento.dll
+/home/paulo/Documentos/C#/Dio/Estacionamento/bin/Debug/net9.0/Estacionamento.pdb
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.AssemblyInfoInputs.cache
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.AssemblyInfo.cs
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.sourcelink.json
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.dll
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/refint/Estacionamento.dll
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.pdb
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/Estacionamento.genruntimeconfig.cache
+/home/paulo/Documentos/C#/Dio/Estacionamento/obj/Debug/net9.0/ref/Estacionamento.dll

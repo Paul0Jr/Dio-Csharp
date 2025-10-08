@@ -1,0 +1,15 @@
+/home/paulo/Documentos/C#/Dio/Arrays/bin/Debug/net9.0/Arrays
+/home/paulo/Documentos/C#/Dio/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/paulo/Documentos/C#/Dio/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/paulo/Documentos/C#/Dio/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/paulo/Documentos/C#/Dio/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/paulo/Documentos/C#/Dio/Arrays/obj/Debug/net9.0/ref/Arrays.dll

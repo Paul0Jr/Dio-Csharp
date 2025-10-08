@@ -1,0 +1,15 @@
+/home/paulo/Documentos/C#/Dio/Fundamentos/bin/Debug/net9.0/Fundamentos
+/home/paulo/Documentos/C#/Dio/Fundamentos/bin/Debug/net9.0/Fundamentos.deps.json
+/home/paulo/Documentos/C#/Dio/Fundamentos/bin/Debug/net9.0/Fundamentos.runtimeconfig.json
+/home/paulo/Documentos/C#/Dio/Fundamentos/bin/Debug/net9.0/Fundamentos.dll
+/home/paulo/Documentos/C#/Dio/Fundamentos/bin/Debug/net9.0/Fundamentos.pdb
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.AssemblyInfoInputs.cache
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.AssemblyInfo.cs
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.sourcelink.json
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.dll
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/refint/Fundamentos.dll
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.pdb
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/Fundamentos.genruntimeconfig.cache
+/home/paulo/Documentos/C#/Dio/Fundamentos/obj/Debug/net9.0/ref/Fundamentos.dll
