@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Estacionamento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CloudService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157b1987494f7c301bcbcfb8daf72ad764365833")]
-[assembly: System.Reflection.AssemblyProductAttribute("Estacionamento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Estacionamento")]
+[assembly: System.Reflection.AssemblyProductAttribute("CloudService")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CloudService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
