@@ -1,0 +1,15 @@
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/POO
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/POO.deps.json
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/POO.runtimeconfig.json
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/POO.dll
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/POO.pdb
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.AssemblyInfoInputs.cache
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.AssemblyInfo.cs
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.sourcelink.json
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.dll
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/refint/POO.dll
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.pdb
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.genruntimeconfig.cache
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/ref/POO.dll
