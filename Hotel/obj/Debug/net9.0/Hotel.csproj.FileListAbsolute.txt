@@ -1,0 +1,15 @@
+/home/paulo/Documentos/C#/Dio/Hotel/bin/Debug/net9.0/Hotel
+/home/paulo/Documentos/C#/Dio/Hotel/bin/Debug/net9.0/Hotel.deps.json
+/home/paulo/Documentos/C#/Dio/Hotel/bin/Debug/net9.0/Hotel.runtimeconfig.json
+/home/paulo/Documentos/C#/Dio/Hotel/bin/Debug/net9.0/Hotel.dll
+/home/paulo/Documentos/C#/Dio/Hotel/bin/Debug/net9.0/Hotel.pdb
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.AssemblyInfoInputs.cache
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.AssemblyInfo.cs
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.sourcelink.json
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.dll
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/refint/Hotel.dll
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.pdb
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/Hotel.genruntimeconfig.cache
+/home/paulo/Documentos/C#/Dio/Hotel/obj/Debug/net9.0/ref/Hotel.dll

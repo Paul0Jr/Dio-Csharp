@@ -13,3 +13,6 @@
 /home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.pdb
 /home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.genruntimeconfig.cache
 /home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/ref/POO.dll
+/home/paulo/Documentos/C#/Dio/POO/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.csproj.AssemblyReference.cache
+/home/paulo/Documentos/C#/Dio/POO/obj/Debug/net9.0/POO.csproj.Up2Date

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BW6iGSgTL00=",
+  "dgSpecHash": "8FCnouDItIQ=",
   "success": true,
   "projectFilePath": "/home/paulo/Documentos/C#/Dio/POO/POO.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/paulo/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
