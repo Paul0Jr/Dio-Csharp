@@ -2,16 +2,22 @@
 using POO.Curso;
 using POO.Vendas;
 using Newtonsoft.Json;
+using POO.Abstracao.Abs;
 
-Vendas venda = new Vendas(12, "Caneca", 12.00M);
+Abs p1 = new Abs("Paulo", 21);
+p1.Apresentar();
+
+/*Vendas venda = new Vendas(12, "Caneca", 12.00M);
 string serialize = JsonConvert.SerializeObject(venda, Formatting.Indented);
 
 //Serialização
 File.WriteAllText("C#/vendas.json", serialize);
 Console.WriteLine(serialize);
 
-//Descerialização
+//Desserialização
 File.ReadAllText("Path");
+
+
 
 /*DateTime data = new DateTime();
 Pessoa pessoa = new Pessoa("Paulo", "Sérgio");
