@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5bZg6ZWyigE=",
+  "dgSpecHash": "roPtbejytbE=",
   "success": true,
-  "projectFilePath": "/home/paulo/Documentos/C#/Dio/Hotel/Hotel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\extre\\Documents\\Dio-Csharp\\Hotel\\Hotel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extre\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\extre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\extre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\extre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
