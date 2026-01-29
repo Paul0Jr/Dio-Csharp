@@ -1,0 +1,15 @@
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\bin\Debug\net10.0\Smartphones.exe
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\bin\Debug\net10.0\Smartphones.deps.json
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\bin\Debug\net10.0\Smartphones.runtimeconfig.json
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\bin\Debug\net10.0\Smartphones.dll
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\bin\Debug\net10.0\Smartphones.pdb
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.AssemblyInfoInputs.cache
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.AssemblyInfo.cs
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.csproj.CoreCompileInputs.cache
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.sourcelink.json
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.dll
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\refint\Smartphones.dll
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.pdb
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\Smartphones.genruntimeconfig.cache
+C:\Users\extre\Documents\Dio-Csharp\Smartphones\obj\Debug\net10.0\ref\Smartphones.dll

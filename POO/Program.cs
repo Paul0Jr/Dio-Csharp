@@ -3,8 +3,9 @@ using POO.Curso;
 using POO.Vendas;
 using Newtonsoft.Json;
 using POO.Abstracao;
+using POO.Desafios;
+using POO.Desafios.Desafio1;
 
-ContaCorrente corrente = new ContaCorrente();
-
-corrente.Creditar(500);
-corrente.ExibirSaldo();
+string message = Console.ReadLine();
+Mensagem saud = new Mensagem(message);
+saud.Resposta();
