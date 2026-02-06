@@ -1,18 +1,20 @@
-using Microsoft.AspNetCore.Mvc;
-
 namespace API.Controllers;
 
+
+[ApiController]
+[Route("[controller]")]
 public class UserController : Controller
 {
-    // GET
+     [HttpGet("DataHoraAtual")] 
     public IActionResult DateHour()
     {
         var obj = new 
         {
-            Date = DateTime.Now()
-        }
-        
-        return View();
+            date = DateTime.Now.ToLongDateString(),
+            hour = DateTime.Now.ToLongTimeString()
+        };
+
+        return Ok(obj);
         
     }
 }
