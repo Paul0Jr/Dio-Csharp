@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\extre\\Documents\\Dio-Csharp\\Estacionamento\\Estacionamento.csproj": {}
+    "/Users/paulosergio/Documents/Dio-Csharp/Estacionamento/Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\extre\\Documents\\Dio-Csharp\\Estacionamento\\Estacionamento.csproj": {
+    "/Users/paulosergio/Documents/Dio-Csharp/Estacionamento/Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\extre\\Documents\\Dio-Csharp\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "/Users/paulosergio/Documents/Dio-Csharp/Estacionamento/Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\Users\\extre\\Documents\\Dio-Csharp\\Estacionamento\\Estacionamento.csproj",
-        "packagesPath": "C:\\Users\\extre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\extre\\Documents\\Dio-Csharp\\Estacionamento\\obj\\",
+        "projectPath": "/Users/paulosergio/Documents/Dio-Csharp/Estacionamento/Estacionamento.csproj",
+        "packagesPath": "/Users/paulosergio/.nuget/packages/",
+        "outputPath": "/Users/paulosergio/Documents/Dio-Csharp/Estacionamento/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\extre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/paulosergio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -54,30 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
