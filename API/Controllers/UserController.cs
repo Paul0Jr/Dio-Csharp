@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Mvc;
+
 namespace API.Controllers;
 
 
@@ -16,5 +18,12 @@ public class UserController : Controller
 
         return Ok(obj);
         
+    }
+
+     [HttpGet("NomePessoa")] 
+    public IActionResult NameUser(string name, int age)
+    {
+        var message = $"Olá, mundo! Me chamo {name} e possuo {age} anos :)";
+        return Ok(new {message});
     }
 }
